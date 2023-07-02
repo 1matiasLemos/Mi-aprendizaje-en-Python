@@ -1,0 +1,4 @@
+este es el fichero numero 2
+me llamo gonzalo
+tengo 21
+me gusta el lenguaje C++
